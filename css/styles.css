@@ -54,7 +54,7 @@ body {
 }
 
 /* ------- Модальне вікно ------- */
-.basicLightbox {
+.openModal {
     position: fixed;
     top: 0;
     left: 0;
@@ -68,7 +68,7 @@ body {
 }
 
 /* ------- Велике зображення в модальному вікні ------- */
-.basicLightbox img {
+.openModal img {
     max-width: 100%;
     max-height: 100%;
     background: rgba(46, 47, 66, 0.80);
